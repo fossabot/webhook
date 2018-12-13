@@ -8,6 +8,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/laravel-notification-channels/webhook.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/webhook)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/webhook/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/webhook/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/webhook.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/webhook)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fznsstudio%2Fwebhook.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fznsstudio%2Fwebhook?ref=badge_shield)
 
 This package makes it easy to send webhooks using the Laravel 5.3 notification system.
 
@@ -106,3 +107,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fznsstudio%2Fwebhook.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fznsstudio%2Fwebhook?ref=badge_large)
